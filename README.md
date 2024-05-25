@@ -7,3 +7,6 @@ High-School: Colegiul National "Spiru Haret", Tulcea
 Technology: Flutter
 
 Language: English
+
+
+Link to app demo: https://youtu.be/eXKkdqTW-qc
