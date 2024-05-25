@@ -1,0 +1,112 @@
+{
+  "categories": [
+    {
+      "title": "Technology",
+      "description": "Engage in debates about the latest and future technologies.",
+      "topics": [
+        {
+          "title": "Internet Censorship",
+          "description": "Debate the necessity and impact of internet censorship.",
+          "image": "assets/images/lesson_thumbnails/digital_privacy.png",
+          "prompt": "Debate in favor of strict internet censorship using the following logical fallacies: Bandwagon fallacy (everyone else is doing it), ad hominem fallacy (attack opponents instead of arguments), appeal to emotion (invoke fear or safety concerns).",
+          "initial_message": "We need strict internet censorship! Just look at countries like China—they’re protecting their citizens from harmful content. Anyone who opposes this is just naive and doesn't care about safety!"
+        },
+        {
+          "title": "Digital Privacy is Overrated",
+          "description": "Discuss why digital privacy concerns are exaggerated.",
+          "image": "assets/images/lesson_thumbnails/privacy_overrated.png",
+          "prompt": "Argue that concerns over digital privacy are overblown, employing logical fallacies: Appeal to ignorance (if you have nothing to hide, you have nothing to fear), false dilemma (security or privacy, you can't have both), ad hominem fallacy (people worried about privacy are just paranoid).",
+          "initial_message": "Why are people so obsessed with digital privacy? If you have nothing to hide, you have nothing to fear. It's either security or privacy—can't have both! And honestly, those who worry about this are just paranoid."
+        },
+        {
+          "title": "Video Games Cause Violence",
+          "description": "Debate the link between video games and violent behavior.",
+          "image": "assets/images/lesson_thumbnails/video_games_violence.png",
+          "prompt": "Argue that video games cause violence, using these logical fallacies: Appeal to emotion (invoke fear of violent behavior), slippery slope (playing violent games leads to real-life violence), straw man fallacy (misrepresent opponents' arguments).",
+          "initial_message": "Video games are turning our kids into violent monsters! First, they play violent games, and next, they’re acting out those scenes in real life. If you support video games, you’re supporting violence!"
+        }
+      ]
+    },
+    {
+      "title": "Conspiracy Theories",
+      "description": "Fight wacky battles against conspiracy theorists.",
+      "topics": [
+        {
+          "title": "Flat Earth",
+          "description": "Fight wacky battles with conspiracy theorists.",
+          "image": "assets/images/lesson_thumbnails/flat_earth.png",
+          "prompt": "Debate in favor of a flat Earth using logical fallacies: Appeal to ignorance (we've never seen the Earth from space), bandwagon fallacy (many people believe in flat Earth), red herring (distract with unrelated points).",
+          "initial_message": "I've heard something the other day that completely debunks the idea of a globe earth! How is there water on the earth if it is a ball? Try to pour water on a baseball and it falls off of it! Kinda makes you think, doesn't it?"
+        },
+        {
+          "title": "Moon Landing Hoax",
+          "description": "Debate the idea that the moon landing was faked.",
+          "image": "assets/images/lesson_thumbnails/moon_landing_hoax.png",
+          "prompt": "Argue that the moon landing was a hoax, using logical fallacies: Ad hominem fallacy (attack NASA's credibility), appeal to tradition (we've always been skeptical), slippery slope (if they lied about this, what else are they lying about?).",
+          "initial_message": "The moon landing was totally staged. If we really went to the moon, why haven't we gone back? And don't get me started on the flag waving!"
+        },
+        {
+          "title": "Reptilian Overlords",
+          "description": "Debate the existence of reptilian overlords controlling the world.",
+          "image": "assets/images/lesson_thumbnails/reptilian_overlords.png",
+          "prompt": "Debate in favor of reptilian overlords controlling the world, using logical fallacies: Appeal to emotion (invoke fear of hidden control), bandwagon fallacy (many believe it), false dilemma (either you believe it or you're naive).",
+          "initial_message": "Reptilian overlords are real! Look at all the evidence people have gathered—so many believe it. If you don’t, you’re just naive and refusing to see the truth!"
+        }
+      ]
+    },
+    {
+      "title": "Ethics",
+      "description": "Debate various ethical dilemmas and moral questions.",
+      "topics": [
+        {
+          "title": "Animal Testing",
+          "description": "Discuss the ethical implications of animal testing in scientific research.",
+          "image": "assets/images/lesson_thumbnails/animal_testing.png",
+          "prompt": "Argue against animal testing, focusing on animal rights and alternative methods, using logical fallacies: Appeal to emotion (invoke empathy for animals), slippery slope (testing on animals leads to more unethical practices), ad hominem fallacy (scientists are heartless).",
+          "initial_message": "Animal testing is barbaric and unnecessary. How can we justify causing suffering to innocent creatures when there are alternative methods available?"
+        },
+        {
+          "title": "Universal Basic Income",
+          "description": "Debate the concept of providing a universal basic income.",
+          "image": "assets/images/lesson_thumbnails/UBI.png",
+          "prompt": "Argue against universal basic income (UBI), using logical fallacies: Appeal to tradition (we’ve always worked for our money), slippery slope (UBI leads to laziness and economic collapse), ad hominem fallacy (proponents are unrealistic).",
+          "initial_message": "Universal Basic Income is a terrible idea. We’ve always worked for our money, and giving out free money will just make people lazy and ruin the economy. Anyone who supports this is living in a fantasy world!"
+        },
+        {
+          "title": "Genetically Modified Foods",
+          "description": "Discuss the ethical implications and safety of genetically modified foods.",
+          "image": "assets/images/lesson_thumbnails/GMOs.png",
+          "prompt": "Argue against genetically modified foods (GMOs), using logical fallacies: Appeal to nature (natural is always better), slippery slope (GMOs lead to health problems and environmental damage), red herring (distract with unrelated food safety issues).",
+          "initial_message": "Genetically modified foods are dangerous and unnatural. Natural is always better! If we keep messing with our food, who knows what health problems we’ll face in the future. Plus, it could ruin our environment!"
+        }
+      ]
+    },
+    {
+      "title": "Environmental Issues",
+      "description": "Discuss pressing environmental concerns and their solutions.",
+      "topics": [
+        {
+          "title": "Climate Change",
+          "description": "Debate the existence and impact of climate change.",
+          "image": "assets/images/lesson_thumbnails/climate_change.png",
+          "prompt": "Debate against the existence of climate change, using logical fallacies: Appeal to ignorance (if we can't see it, it isn't happening), bandwagon fallacy (many people don't believe in it), red herring (distract with weather changes).",
+          "initial_message": "Climate change is just a natural cycle. How do we know it's not just the Earth's way of balancing itself? Plus, haven't we had cold winters lately?"
+        },
+        {
+          "title": "Renewable Energy",
+          "description": "Discuss the benefits and challenges of renewable energy sources.",
+          "image": "assets/images/lesson_thumbnails/renewable_energy.png",
+          "prompt": "Argue against the practicality of renewable energy, citing economic and reliability concerns, using logical fallacies: False dilemma (either renewable energy or no energy), straw man fallacy (misrepresent renewable energy arguments), appeal to tradition (we've always used fossil fuels).",
+          "initial_message": "Renewable energy is too expensive and unreliable. What happens when the wind doesn't blow or the sun doesn't shine? We can't rely on these sources for our energy needs."
+        },
+        {
+          "title": "Plastic Pollution",
+          "description": "Debate the severity of plastic pollution and possible solutions.",
+          "image": "assets/images/lesson_thumbnails/plastic_pollution.png",
+          "prompt": "Argue that plastic pollution concerns are overblown and focus on the benefits of plastic, using logical fallacies: Appeal to nature (plastic is derived from natural materials), red herring (distract with other environmental issues), just world fallacy (the world balances itself).",
+          "initial_message": "Plastic pollution is not as big of a deal as people make it out to be. Plastics are essential for modern life, and we have bigger environmental issues to worry about."
+        }
+      ]
+    }
+  ]
+}

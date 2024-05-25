@@ -1,0 +1,34 @@
+{
+  "topics": [
+    {
+      "title": "Renewable Energy",
+      "description": "Discuss the future and importance of renewable energy sources.",
+      "prompt": "Give a short speech on why renewable energy is crucial for the future and the steps needed to increase its adoption."
+    },
+    {
+      "title": "Social Media Influence",
+      "description": "Examine the impact of social media on society and individual behavior.",
+      "prompt": "Discuss how social media shapes our opinions, behaviors, and daily lives, highlighting both its positive and negative effects."
+    },
+    {
+      "title": "Mental Health Awareness",
+      "description": "Share your views on the importance of mental health and breaking the stigma.",
+      "prompt": "Explain why mental health awareness is essential and suggest ways to support and promote mental well-being in communities."
+    },
+    {
+      "title": "Space Exploration",
+      "description": "Debate the significance and future of space exploration.",
+      "prompt": "Discuss the benefits and challenges of space exploration and whether it should be a priority for humanity."
+    },
+    {
+      "title": "Artificial Intelligence Ethics",
+      "description": "Discuss the ethical considerations surrounding AI development.",
+      "prompt": "Debate the ethical implications of artificial intelligence in various sectors, such as healthcare, employment, and privacy."
+    },
+    {
+      "title": "Plant-Based Diets",
+      "description": "Examine the benefits and challenges of adopting plant-based diets.",
+      "prompt": "Discuss the health, environmental, and ethical reasons for and against plant-based diets and how they compare to traditional diets."
+    }
+  ]
+}
