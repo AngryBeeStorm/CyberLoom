@@ -150,10 +150,7 @@ class ModuleSection extends StatelessWidget {
 
 class LessonCard extends StatelessWidget {
  final Lesson lesson;
-
-
  const LessonCard({super.key, required this.lesson});
-
 
  @override
  Widget build(BuildContext context) {
