@@ -5,13 +5,9 @@ import 'learning_module_screen.dart';
 import 'profile_screen.dart';
 import 'explore_screen.dart';
 
-
 class HomeScreen extends StatefulWidget {
  final Function toggleTheme;
-
-
  const HomeScreen({super.key, required this.toggleTheme});
-
 
  @override
  HomeScreenState createState() {
@@ -19,11 +15,9 @@ class HomeScreen extends StatefulWidget {
  }
 }
 
-
 class HomeScreenState extends State<HomeScreen> {
  int _selectedIndex = 0;
  late List<Widget> _widgetOptions;
-
 
  @override
  void initState() {
@@ -35,15 +29,11 @@ class HomeScreenState extends State<HomeScreen> {
      const ExploreScreen(),
    ];
  }
-
-
  void _onItemTapped(int index) {
    setState(() {
      _selectedIndex = index;
    });
  }
-
-
  @override
  Widget build(BuildContext context) {
    return Scaffold(
@@ -71,8 +61,6 @@ class HomeScreenState extends State<HomeScreen> {
            icon: const Icon(Icons.school_outlined),
            title: const Text("Learn"),
          ),
-
-
          MoltenTab(
            icon: const Icon(Icons.search_outlined),
            title: const Text("Analyze"),
