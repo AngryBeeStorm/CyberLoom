@@ -94,11 +94,7 @@ class _LessonDetailScreenState extends State<LessonDetailScreen> {
      _lastReadSection = 0;
      _isCompleted = false;
    });
-
-
  }
-
-
  void _navigateToSubsection(int index) {
    if (index >= 0 && index < widget.lesson.subsections.length) {
      Navigator.push(
