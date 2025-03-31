@@ -16,20 +16,16 @@ class SubsectionDetailScreen extends StatefulWidget {
    required this.onSubsectionCompleted,
    required this.subsections,
  });
-
-
+ 
  @override
  _SubsectionDetailScreenState createState() => _SubsectionDetailScreenState();
 }
-
-
 class _SubsectionDetailScreenState extends State<SubsectionDetailScreen> {
  late int currentIndex;
  double _textSize = 20.0;
  int? _selectedAnswerIndex;
  bool _isCorrectAnswer = false;
-
-
+ 
  @override
  void initState() {
    super.initState();
@@ -38,8 +34,6 @@ class _SubsectionDetailScreenState extends State<SubsectionDetailScreen> {
      _markSubsectionCompleted();
    }
  }
-
-
  void _markSubsectionCompleted() {
    widget.onSubsectionCompleted(widget.subsections[currentIndex].id);
  }
