@@ -5,8 +5,8 @@ import 'dart:io';
 import 'package:http/http.dart' as http;
 
 class ChatbotService {
-  static const String openAiApiKey = 'sk-proj-GJIlWWUq0JEJvKaMzXMeT3BlbkFJl10ZPsKRC3j7IFrpkh8A'; 
-  static const String assemblyAiApiKey = '447f85ca6e6847948679ed6b48268802'; 
+  static const String openAiApiKey = 'secret'; 
+  static const String assemblyAiApiKey = 'secret'; 
 
   static Future<Map<String, dynamic>> sendMessage({
     required String topic,
